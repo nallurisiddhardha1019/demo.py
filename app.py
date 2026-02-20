@@ -30,3 +30,4 @@ else:
 
     elif page == "Logout":
         logout()
+
